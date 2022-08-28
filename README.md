@@ -1,2 +1,4 @@
 # ML_algorithms
-Recording the machine learning algorithms.
+<p>Recording the machine learning algorithms.<p>
+* 1. KNN
+* 2. Linear Regression
